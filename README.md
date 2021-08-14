@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TriCrypta
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning to create amazing products on the Solana blockchain
+- 💞️ I’m looking to collaborate on Solana Projects
+- 📫 How to reach me : Twitter @TriCrypta, Discord TriCrypta#1328
